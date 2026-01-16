@@ -156,7 +156,7 @@ This repository is private by design.
 
 ## Author
 
-Full-Stack Engineer  
+Full-Stack Engineer - daniellopez882 
 Specializing in Python backend systems and React-based frontend applications.
 
 ---
